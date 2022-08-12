@@ -1,0 +1,15 @@
+### Terraform ###
+# Compiled files
+*.tfstate
+*.tfstate.backup
+*.terraform.lock.hcl
+
+# Module directory
+*.terraform/
+
+# Intellij
+.idea/
+
+# Ignore Mac DS_Store files
+.DS_Store
+**/.DS_Store
